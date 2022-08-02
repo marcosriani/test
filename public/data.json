@@ -1,0 +1,42 @@
+[
+  {
+    "src": "./img/img1.jpg",
+    "title": "Product 01",
+    "description": " How to and tutorial videos of cool css effects, web design ideas"
+  },
+  {
+    "src": "./img/img2.jpg",
+    "title": "Product 02",
+    "description": "2 How to and tutorial videos of cool css effects, web design ideas"
+  },
+  {
+    "src": "./img/img3.jpg",
+    "title": "Product 03",
+    "description": "3 How to and tutorial videos of cool css effects, web design ideas"
+  },
+  {
+    "src": "./img/img4.jpg",
+    "title": "Product 04",
+    "description": "4 How to and tutorial videos of cool css effects, web design ideas"
+  },
+  {
+    "src": "./img/img5.jpg",
+    "title": "Product 05",
+    "description": "5 How to and tutorial videos of cool css effects, web design ideas"
+  },
+  {
+    "src": "./img/img6.jpg",
+    "title": "Product 06",
+    "description": "6 How to and tutorial videos of cool css effects, web design ideas"
+  },
+  {
+    "src": "./img/img7.jpg",
+    "title": "Product 07",
+    "description": "7 How to and tutorial videos of cool css effects, web design ideas"
+  },
+  {
+    "src": "./img/img8.jpg",
+    "title": "Product 08",
+    "description": "8 How to and tutorial videos of cool css effects, web design ideas"
+  }
+]
